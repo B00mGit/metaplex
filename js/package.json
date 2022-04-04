@@ -56,6 +56,8 @@
   },
   "dependencies": {
     "@metaplex/arweave-cost": "^1.0.4",
+    "@solana/web3.js": "^1.33.0",
+    "@types/react": "^17.0.16",
     "cross-env": "^7.0.3",
     "next": "^11.0.1",
     "react": "^17.0.2",
